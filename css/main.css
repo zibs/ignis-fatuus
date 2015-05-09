@@ -94,8 +94,50 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+    margin: 20px;
+    overflow-x: hidden;
+}
 
 
+
+#forteff {
+    display: block;
+    margin: 0 auto;
+    height: 500px;
+}
+#poem {
+    position: absolute;
+    margin: 0 auto;
+    height: 500px;
+    top: 50%;
+    left: 35%;
+}
+
+#skeleton {
+    height: 300px;
+    padding-top: 10%;
+
+}
+
+#stairs {
+    height: 500px;
+    padding-left: 60%;
+}
+
+#hermes {
+    position: absolute;
+    bottom: 50%;
+}
+.container {
+    height: 400px;
+    width: 400px;
+
+}
+.container img {
+    
+    width: 100%;
+}
 
 
 
