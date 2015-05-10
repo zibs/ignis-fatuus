@@ -12,6 +12,7 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
+    overflow-x: hidden;
 }
 /*
  * Remove text-shadow in selection highlight:
@@ -88,7 +89,9 @@ textarea {
 
 body {
     margin: 20px;
+    position: relative;
     overflow-x: hidden;
+
 }
 
 .blog_images {
