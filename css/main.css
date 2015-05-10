@@ -91,44 +91,103 @@ body {
     overflow-x: hidden;
 }
 
+.blog_images {
+    position: relative;
+}
+
 #forteff {
     display: block;
-    margin: 0 auto;
+    margin: 5em auto;
     height: 500px;
+    opacity: 0.8;
 }
 
-#poem {
+#logo {
     position: absolute;
-    margin: 0 auto;
-    height: 500px;
-    top: 50%;
-    left: 35%;
-}
-
-#skeleton {
     height: 300px;
-    padding-top: 10%;
-}
-
-#stairs {
-    height: 500px;
-    padding-left: 60%;
+    top: 0;
 }
 
 #hermes {
     position: absolute;
-    bottom: 50%;
+    left: 30%;
+    z-index: 1;
 }
 
-#fourpanel {
+#magixard {
     position: relative;
-    bottom: 17em;
+    bottom: 10em;
 }
+
+#lake {
+    position: relative;
+    height: 700px;
+}
+
+#ninetales {
+    position: absolute;
+    left: 85%;
+}
+
 #moving {
     position: relative;
     left: 15em;
 }
 
+#chakra {
+    float: right;
+}
+
+#skeleton {
+    position: relative;
+    height: 1000px;
+    bottom: 8.5em;
+}
+
+#willo {
+    position: absolute;
+    padding-top: 45em;
+    height: 500px;
+    z-index: 1;
+    left: 75%;
+}
+
+#poem {
+    position: relative;
+}
+
+#improv {
+    position: relative;
+    display: block;
+    height: 400px;
+    margin: 0 auto;
+    bottom: 22em;
+}
+
+#stairs {
+    position: relative;
+    height: 500px;
+    bottom: 20em;
+}
+
+#fourpanel {
+    position: absolute;
+    left: 45%;
+}
+
+#cartoon {
+    position: relative;
+    display: block;
+    
+    
+}
+
+#paragraph {
+    position: relative;
+    left: 70%;
+    height: 1500px;
+    bottom: 20em;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
