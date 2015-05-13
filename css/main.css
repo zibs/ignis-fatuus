@@ -97,6 +97,9 @@ body {
     position: relative;
 }
 
+#dreamy{
+    float: right;
+}
 #forteff {
     display: block;
     margin: 5em auto;
@@ -147,6 +150,9 @@ body {
     height: 1000px;
     bottom: 8.5em;
 }
+#possibles {
+    height: 250px;
+}
 
 #willo {
     position: absolute;
@@ -188,7 +194,7 @@ body {
     position: relative;
     left: 70%;
     height: 1500px;
-    bottom: 20em;
+    bottom: 10em;
 }
 
 #horses {
@@ -202,6 +208,21 @@ body {
     height: 800px;
     left: 20%;
     padding-top: 20em;
+}
+.theories {
+    position: relative;
+}
+#straintheory {
+    position: relative;
+    height: 260px;
+    padding-bottom: 5em;
+
+}
+#wryguy { 
+    
+    right: 0%;
+
+    
 }
 
 .auguries {
@@ -221,6 +242,9 @@ body {
     right: 10%;
 }
 
+#tweens {
+    padding-left: 4em;
+}
 #tigergal {
 
 }
@@ -232,11 +256,19 @@ body {
     margin: 0;
     left: 0;
 }
+.storytime {
+    padding-left: 7em;
+    background-color: rgba(215, 168, 0, 0.05);
+    border-radius: 25px;
+    margin-bottom: 4em;
+}
 #swan {
     width: 100vw;
     padding: 0;
     margin: 0;
 }
+
+
 
 .hierarchy {
     z-index: 1;

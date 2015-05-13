@@ -1,6 +1,5 @@
 $(document).ready(function(){
-  $('img').draggable()
-  	
+  $('img').draggable()	
 });
 
 $(document).ready(function() { 
@@ -9,3 +8,4 @@ $(document).ready(function() {
   			 
 	});
 });
+
